@@ -1,6 +1,6 @@
 # vimrc
 
-My vim cinfig file is here
+My vim config file is here.
 
 ## Screenshots
 ‍‍‍![My vim screenshots](https://user-images.githubusercontent.com/43514507/83497626-fee7a180-a4cf-11ea-8d27-6af7bbdde0fe.png)
